@@ -1,4 +1,4 @@
-# ringo
+# ringo - Em desenvolvimento
 
 A new Flutter project.
 
